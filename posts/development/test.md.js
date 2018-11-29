@@ -1,1 +1,1 @@
-webpackJsonp([0],{459:function(e,t){e.exports={content:["article",["p","this is an article about development."]],meta:{title:"development",publishDate:"2018-11-29T00:00:00.000Z",category:"development",filename:"posts/development/test.md"}}}});
+webpackJsonp([0],{461:function(e,t){e.exports={content:["article",["p","this is an article about development."]],meta:{title:"development",publishDate:"2018-11-29T00:00:00.000Z",category:"development",abstract:"this is an article about development...",filename:"posts/development/test.md"}}}});
