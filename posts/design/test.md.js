@@ -1,1 +1,1 @@
-webpackJsonp([1],{460:function(t,e){t.exports={content:["article",["p","this is an article about design."]],meta:{title:"design",publishDate:"2018-11-29T00:00:00.000Z",category:"design",abstract:"this is an article about design...",filename:"posts/design/test.md"}}}});
+webpackJsonp([3],{463:function(t,e){t.exports={content:["article",["p","this is an article about design."]],meta:{title:"design",publishDate:"2018-11-29T00:00:00.000Z",category:"design",abstract:"this is an article about design...",filename:"posts/design/test.md"}}}});
