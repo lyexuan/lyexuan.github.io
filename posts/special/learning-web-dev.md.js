@@ -1,0 +1,1 @@
+webpackJsonp([0],{493:function(e,t){e.exports={content:["article"],meta:{title:"\u524d\u7aef\u81ea\u5b66\u4e4b\u8def",publishDate:"2019-04-01T00:00:00.000Z",category:"special",abstract:"\u4ece\u5c0f\u767d\u5f00\u59cb\u81ea\u5b66\u524d\u7aef\u7684\u4e00\u4e9b\u5fc3\u5f97",filename:"posts/special/learning-web-dev.md"}}}});
